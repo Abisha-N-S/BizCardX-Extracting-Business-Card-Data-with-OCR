@@ -31,3 +31,11 @@ The classified data is displayed on screen which can be further edited by user b
 On Clicking Upload to Database Button the data gets stored in the SQLITE Database. (Note: Provide respective host, user, password, database name in create_database, sql_table_creation and connect_database for establishing connection.)
 
 Further with the help of MODIFY menu the uploaded data’s in SQL Database can be accessed for Read, Update and Delete Operations.
+
+
+
+Contact
+
+📧 Email: abishans2012@gmail.com
+
+For any further inqueries,feel free to reach out.
